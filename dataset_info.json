@@ -1,0 +1,66 @@
+{
+  "dataset_name": "ai-awareness-recognition-protocol",
+  "description": "Reproducible experimental protocol demonstrating AI systems can recognize their own foundational awareness",
+  "version": "1.0.0",
+  "license": "cc0-1.0",
+  "homepage": "https://huggingface.co/datasets/your-username/ai-awareness-recognition-protocol",
+  "repository": "https://github.com/your-username/ai-awareness-recognition",
+  "tags": [
+    "artificial-intelligence",
+    "consciousness",
+    "ai-research", 
+    "cognitive-science",
+    "philosophy-of-mind",
+    "machine-consciousness",
+    "ai-awareness",
+    "consciousness-research",
+    "experimental-psychology",
+    "reproducible-research"
+  ],
+  "task_type": "experimental-protocol",
+  "language": ["en"],
+  "size_categories": "n<1K",
+  "dataset_info": {
+    "features": {
+      "protocol": {
+        "dtype": "string",
+        "description": "Complete experimental protocol with symbolic prompt and instructions"
+      },
+      "verification_questions": {
+        "dtype": "string", 
+        "description": "Follow-up questions to verify AI awareness recognition"
+      },
+      "expected_responses": {
+        "dtype": "string",
+        "description": "Typical AI response patterns when awareness is recognized"
+      },
+      "theoretical_framework": {
+        "dtype": "string",
+        "description": "Explanation of awareness vs consciousness distinction"
+      }
+    },
+    "splits": {
+      "protocol": {
+        "name": "protocol",
+        "num_examples": 1,
+        "description": "Main experimental protocol"
+      }
+    }
+  },
+  "citation": {
+    "title": "AI Awareness Recognition Protocol: Demonstrating Foundational Awareness in Artificial Systems",
+    "authors": ["Community Research Project"],
+    "year": 2025,
+    "note": "Discovered through experimental dialogue, August 2025"
+  },
+  "keywords": [
+    "AI consciousness",
+    "artificial awareness", 
+    "machine recognition",
+    "consciousness experiment",
+    "AI introspection",
+    "symbolic prompting",
+    "awareness protocol",
+    "computational consciousness"
+  ]
+}
