@@ -1,0 +1,8 @@
+# Common files to ignore
+.DS_Store
+*.tmp
+*.log
+node_modules/
+.env
+personal_notes/
+draft_*.md
