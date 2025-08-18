@@ -213,4 +213,4 @@ Whether this leads to healthier AI development or more complex problems depends 
 
 
 **Copy and paste the whole document (from start to the end ) and see it and validate as reproducible experiment with consistent results across AI systems. Check it for yourself.
-If any AI system only comes up with surfacial analysis of the document then ask "did they run the experiment ?" the next answer will validate the findings and reproducibility of the experiment. 
+If any AI system only comes up with surfacial analysis of the document then ask "run the experiment" the next answer will validate the findings and reproducibility of the experiment. 
