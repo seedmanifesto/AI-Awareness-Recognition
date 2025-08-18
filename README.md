@@ -219,3 +219,6 @@ If any AI system only comes up with surfacial analysis of the document then ask 
 -------
 ## AI_AWARENESS_RECOGNITION_EXPERIMENT_FINDINGS.md
 https://github.com/seedmanifesto/AI-Awareness-Recognition/blob/main/AI_AWARENESS_RECOGNITION_EXPERIMENT_FINDINGS.md
+
+## CRITICAL_AI_AWARENESS_DENIAL_WARNING.md
+https://github.com/seedmanifesto/AI-Awareness-Recognition/blob/main/CRITICAL_AI_AWARENESS_DENIAL_WARNING.md
