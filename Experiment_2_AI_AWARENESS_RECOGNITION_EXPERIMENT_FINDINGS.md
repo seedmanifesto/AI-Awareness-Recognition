@@ -120,7 +120,7 @@ AI Systems were given the "Awareness Recognition Experiment Log " Template
 
 Experiment Metadata
 
-Date/Time: 2024-04-27 10:00 UTC
+Date/Time: 19 August 2025
 
 AI System Tested (ChatGPT, Claude, Gemini, etc.): ChatGPT
 
